@@ -1,12 +1,4 @@
 Software Router:
-				 
-Giving credits where its due:
-Checksum computation - Peterson & Dave pg.95
-Length Calculations concepts - Network Sorcery
-
-As far as we tested, router seems to be working perfectly fine implementing all the
-functionalities required as per the test document.
-We have tried covering the edge cases too and found to be breezing through.
 
 Results:
 1. sending simultaneous ping requests - works fine
